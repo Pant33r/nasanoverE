@@ -1,0 +1,14 @@
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\bin\Debug\net8.0\nasanOverE.exe
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\bin\Debug\net8.0\nasanOverE.deps.json
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\bin\Debug\net8.0\nasanOverE.runtimeconfig.json
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\bin\Debug\net8.0\nasanOverE.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\bin\Debug\net8.0\nasanOverE.pdb
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\nasanOverE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\nasanOverE.AssemblyInfoInputs.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\nasanOverE.AssemblyInfo.cs
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\nasanOverE.csproj.CoreCompileInputs.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\nasanOverE.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\refint\nasanOverE.dll
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\nasanOverE.pdb
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\nasanOverE.genruntimeconfig.cache
+C:\Users\felixwilhelm.stalo\Documents\programering\nasanoverE\nasanOverE\obj\Debug\net8.0\ref\nasanOverE.dll
